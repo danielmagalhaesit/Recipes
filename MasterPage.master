@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<%--Antonio Daniel de Oliveira Magalhaes - 300883536--%>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="login">
+            <asp:LoginStatus runat="server" ForeColor="#99FFCC" ></asp:LoginStatus>
+        </div>
+
+        <div>
+            <asp:Menu ID="MainMenu" runat="server" Orientation="Horizontal" CssClass="menu" Font-Overline="true" ForeColor="#daf1dd">
+                <Items>
+                    <asp:MenuItem Text="Home" Value="Home" NavigateUrl="Default.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Recipes" Value="Recipes" NavigateUrl="~/Recipes.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Add" Value="Add_recipe" NavigateUrl="AddRecipe.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Search" Value="Search" NavigateUrl="~/Search.aspx"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Setup.aspx" Text="Setup" Value="Setup"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle Font-Bold="True" Font-Italic="True" />
+                <StaticMenuItemStyle Height="20px" HorizontalPadding="30px" VerticalPadding="15px" />
+                <StaticMenuStyle />
+            </asp:Menu>
+
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            Recipes Inc -  
+            Tel. xxx xxx xx xx   -
+            Email -  
+            Adress
+        </div>
+    </form>
+</body>
+</html>
+<%--Antonio Daniel de Oliveira Magalhaes - 300883536--%>

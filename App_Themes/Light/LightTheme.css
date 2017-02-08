@@ -1,0 +1,65 @@
+﻿.menu {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    Font-Size: large;
+    color: #19194a;
+    Width: 100%;
+    Height: 60px;
+    background-color: rgba(222, 220, 220, 0.46);
+}
+
+body {
+    background-image: url('../../Img/antipasta.jpg');
+}
+
+.footer {
+    color: DarkSlateGray;
+    font-size: 16px;
+}
+
+.contentDefault {
+    padding: 250px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    text-shadow: 0 2px #000000;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+#LabelAdd {
+    text-shadow: 0 2px #000000;
+}
+
+.LblAdd {
+    color: #19194a;
+    width: 498px;
+    font-size: large;
+}
+
+.addback {
+    border-style: hidden;
+    border-color: inherit;
+    border-width: medium;
+    background-color: rgba(222, 220, 220, 0.46);
+    align-content: initial;
+    width: auto;
+}
+
+.login {
+    color: #19194a;
+    width: 498px;
+    font-size: large;
+    position: absolute;
+    right: 80%;
+    top: 90%;
+}
+
+.recipeimg {
+    float: right;
+    top:auto;
+}
