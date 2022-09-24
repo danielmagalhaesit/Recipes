@@ -1,0 +1,140 @@
+{
+  "covid_consent": {
+    "Covid_Consent": "Covid Consent",
+    "There_is_no_upcoming_request": "The person for whom the request is placed",
+    "next": "next",
+    "p1": "Is not experiencing any symptoms of illness such as cough, shortness of breath or                 difficulty breathing, fever, chills, repeated shaking with chills, muscle pain, headache, sore throat,                 or new loss of taste or smell.",
+    "p2": "have not travelled internationally or to a highly impacted area in the last 14 days.",
+    "p3": "have not been diagnosed with Coronavirus/Covid-19 by provincial or local public health                 authorities.",
+    "p4": "do not believe have been exposed to someone with a suspected and/or confirmed case of                 the Coronavirus/COVID-19.",
+    "p5": "is voluntarily seeking services provided by CareReq and acknowledge that it increases                 the risk to exposure to the Coronavirus/COVID-19.",
+    "p6": "You agree to inform CareReq if any of the above changes before the start of the request.",
+    "p7": "I consent the above statements.",
+    "review": "Please review and provide your consent"
+  },
+  "dashboard": {
+    "Create_Request": "Create Request",
+    "Please_select_one_service": "Please select one service",
+    "Request_a_service": "Request a service",
+    "There_is no_upcoming_request": "There is no upcoming request",
+    "Upcoming_Services": "Upcoming Services",
+    "days_of_service": "days of service"
+  },
+  "form": {
+    "Back": "Back",
+    "City": "City",
+    "Country": "Country",
+    "Date_From": "Date From",
+    "Date_To": "Date To",
+    "I_want_service_on": "I want service on ",
+    "Multiple_week_days": "Multiple week days",
+    "Next": "Next",
+    "Phone_Number": "Phone Number",
+    "Please_choose_the_days_that_you_want_to_request_the_service": "Please choose the days that you want to request the service.",
+    "Please_inform_starting_date": "Please inform starting date.",
+    "Postal_Code": "Postal Code",
+    "Provice": "Province",
+    "Select_duration": "Select duration of service",
+    "Starting_Time": "Starting Time",
+    "Street_Name": "Street Name",
+    "Street_Number": "Street Number",
+    "Unit_Number": "Unit Number",
+    "city_error": "Please enter a valid city.",
+    "country_error": "Please enter a country.",
+    "country_province": "Please enter a valid province.",
+    "duration_error": "Please inform duration.",
+    "end_date_error": "Please enter end date.",
+    "error_duration": "Please inform starting time and duration for ",
+    "minimun_hours_error": "The service should be requested a minimum 2 hours in advance",
+    "multi_date_selection_head": "Choose the week days, the starting time and the duration of the                   services.",
+    "phone_error": "Please enter a valid phone number.",
+    "postalcode_error": "Please enter a valid postal code.",
+    "starting_time_error": "Please inform starting time.",
+    "streetname_error": "Please enter a valid address.",
+    "streetnumber_error": "Please enter a valid address"
+  },
+  "login": {
+    "Login": "Login",
+    "Sign_Up": "Sign Up",
+    "Signup": "Login",
+    "Terms_and_Conditions": "Terms and Conditions",
+    "agree_to_terms": "By clicking Sign Up, you agree to our",
+    "forgot_password": "Forgot password",
+    "welcome_message": "Sign in to CareReq"
+  },
+  "menu": {
+    "Contact_Us": "Contact Us",
+    "Home": "Home",
+    "Profile": "Profile",
+    "Sign_out": "Sign out",
+    "language": "Language"
+  },
+  "oops": {
+    "Down_for_Maintenance": "Temporarily Down for Maintenance",
+    "app_outdated": "App outdated",
+    "app_outdated_subtitle": "Please update your app.",
+    "app_store": "Go To App Store",
+    "no_connection": "No network connection",
+    "oops": "OOPS",
+    "oops_subtitle": "Something went wrong.",
+    "retry": "retry",
+    "welcome": "Welcome to CareReq!",
+    "welcome_subtitle": "We are looking forward to helping you with your personal support needs. CareReq services are available only in certain areas in GTA and will be available in your location shortly. Please contact us at contact@carereq.com for more details."
+  },
+  "payment": {
+    "authorise": "Authorise",
+    "confirm": "Confirm",
+    "disclaimer": "I authorise CareReq to send instructions to the financial institution that issued my card to take               payments from my card account for all the service requests in accordance with the terms of my agreement               with you.",
+    "header": "We will be collecting your payment information and you will only be charged             after the service completion.",
+    "pay_card_ending": "Pay with the existing card ending with",
+    "per_hour": "per hour",
+    "powered_by": "Powered by"
+  },
+  "pricing": {
+    "message": "Hourly rate based on the service location and home care providers availability."
+  },
+  "profile": {
+    "Address": "Address",
+    "Not_Available": "Not Available",
+    "Phone_Number": "Phone Number",
+    "Reques_Details": "Request Details",
+    "update_address": "Update address",
+    "update_phone_number": "Update Phone Number"
+  },
+  "questions": {
+    "Additional_Details": "Additional Details",
+    "No": "No",
+    "Please_enter_valid_response": "Please enter a valid response.",
+    "Required": "Required",
+    "Tell_us_about_the_request": "Tell us about the request",
+    "Yes": "Yes",
+    "additional_details_subtitles": "Use this box to provide any information that you think that is relevant in                     order to us to provide a better service",
+    "enter_request_details": "Please enter the request details."
+  },
+  "summary": {
+    "pending_acceptance": "This request is pending provider acceptance"
+  },
+  "weekdays": {
+    "fri": "Fri",
+    "friday": "Fri",
+    "fridays": "Fridays",
+    "mon": "Mon",
+    "monday": "Monday",
+    "mondays": "Mondays",
+    "sat": "Sat",
+    "saturday": "Saturday",
+    "saturdays": "Saturdays",
+    "sun": "Sun",
+    "sunday": "Sunday",
+    "sundays": "Sundays",
+    "thu": "Thu",
+    "thursday": "Thursday",
+    "thursdays": "Thursdays",
+    "tue": "Tue",
+    "tuesday": "Tuesday",
+    "tuesdays": "Tuesdays",
+    "wed": "Wed",
+    "wednesday": "Wednesday",
+    "wednesdays": "Wednesdays"
+  }
+}
