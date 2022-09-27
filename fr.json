@@ -1,0 +1,124 @@
+{
+  "covid_consent": {
+    "Check_In": "Check In_FR",
+    "Check_Out": "Check Out_FR",
+    "Service_in_Progress": "Service in Progress_FR",
+    "consent": "I consent the above statements._FR",
+    "consent_error": "Please review and provide your consent_FR",
+    "heading": "Covid Consent_FR",
+    "location_error": "Error getting location_FR",
+    "missed_check_in": "You missed the check-in period. Please contact us at contact@carereq.com_FR",
+    "missed_check_out": "You missed the check-out period. Please contact us at contact@carereq.com_FR",
+    "not_close_error": "It seems you are not close enough. Try again when you reach the shift location_FR",
+    "not_close_error1": "It seems you are not close enough. Please contact us at contact@carereq.com_FR",
+    "p1": "I am not experiencing any symptoms of illness such as cough, shortness of breath or difficulty breathing, fever, chills, repeated shaking with chills, muscle pain, headache, sore throat, or new loss of taste or smell._FR",
+    "p2": "I have not traveled internationally or to a highly impacted area within the last 14 days._FR",
+    "p3": "I do not believe I have been exposed to someone with a suspected and/or confirmed case of the Coronavirus/COVID-19._FR",
+    "p4": "I have not been diagnosed with Coronavirus/Covid-19 by provincial or local public health authorities._FR",
+    "p5": "I agree to use a mask, face shield, gloves & follow public health guidelines during the entire service._FR",
+    "thanks_check_in": "Thanks for checking in!_FR",
+    "thanks_check_out": "Thanks for checking out!_FR"
+  },
+  "dashboard": {
+    "Apply_filters": "Apply filters_FR",
+    "City": "City_FR",
+    "Close": "Close_FR",
+    "Dates": "Dates_FR",
+    "End_Date": "End Date_FR",
+    "Filter": "Filter_FR",
+    "From_Date": "From Date_FR",
+    "Minimum_Amount": "Minimum Amount_FR",
+    "Minimum_Total_Amount": "Minimum Total Amount_FR",
+    "Multiple_days": "Multiple days_FR",
+    "Next_Service": "Next Service: _FR",
+    "Single_day": "Single day_FR",
+    "Sort_by": "Sort by_FR",
+    "Upcoming_Requests": "Upcoming Requests_FR",
+    "Week_Days": "Week Days_FR",
+    "no_recurring_day_requests_available": "There are no recurring day requests available_FR",
+    "no_request": "There's no request based on the filter criteria_FR",
+    "no_single_day_requests_available": "There are no single day requests available_FR"
+  },
+  "documents": {
+    "Retake": "Retake_FR",
+    "Submit_Documents": "Submit Documents_FR",
+    "or": "or_FR",
+    "upload_docs": "Upload the picture or attach the document_FR"
+  },
+  "login": {
+    "Login": "Login_FR",
+    "Sign_Up": "Sign Up_FR",
+    "Signup": "Login_FR",
+    "Terms_and_Conditions": "Terms and Conditions_FR",
+    "agree_to_terms": "By clicking Sign Up, you agree to our_FR",
+    "forgot_password": "Forgot password_FR",
+    "welcome_message": "Sign in to CareReq as a Provider_FR"
+  },
+  "menu": {
+    "Contact_Us": "Contact Us_FR",
+    "Home": "Home_FR",
+    "Profile": "Profile_FR",
+    "Sign_out": "Sign out_FR",
+    "language": "Language_FR"
+  },
+  "oops": {
+    "Down_for_Maintenance": "Temporarily Down for Maintenance_FR",
+    "app_outdated": "App outdated_FR",
+    "app_outdated_subtitle": "Please update your app._FR",
+    "app_store": "Go To App Store_FR",
+    "no_connection": "No network connection_FR",
+    "oops": "OOPS_FR",
+    "oops_subtitle": "Something went wrong._FR",
+    "retry": "retry_FR",
+    "welcome": "Welcome to CareReq!_FR",
+    "welcome_subtitle": "We are looking forward to helping you with your personal support needs. CareReq services are available only in certain areas in GTA and will be available in your location shortly. Please contact us at contact@carereq.com for more details._FR"
+  },
+  "payment": {
+    "Stripe_payment_partner": "Stripe is our payment partner..._FR",
+    "register_get_paid": "You need to register on stripe to get paid_FR"
+  },
+  "profile": {
+    "Address": "Address_FR",
+    "Not_Available": "Not Available_FR",
+    "Phone_Number": "Phone Number_FR",
+    "Reques_Details": "Request Details_FR",
+    "update_address": "Update address_FR",
+    "update_phone_number": "Update Phone Number_FR"
+  },
+  "summary": {
+    "Accept_Request": "Accept Request_FR",
+    "Cancel_Request": "Cancel Request_FR",
+    "Request_Details": "Request Details_FR",
+    "ServiceTaken": "Service Taken_FR",
+    "Your_Services": "Your Services_FR",
+    "days_of_service": "days of service_FR"
+  },
+  "waiting": {
+    "check_status": "check status_FR",
+    "waiting_subtitle": "If you have any questions please feel free to reach out to us at contact@carereq.com_FR",
+    "waiting_title": "We are verifying your documents. We will reach out to you if we             need more information._FR"
+  },
+  "weekdays": {
+    "MONDAY": "Mondays_FR",
+    "fri": "Fri_FR",
+    "friday": "Friday_FR",
+    "fridays": "Fridays_FR",
+    "mon": "Mon_FR",
+    "monday": "Monday_FR",
+    "sat": "Sat_FR",
+    "saturday": "Saturday_FR",
+    "saturdays": "Saturdays_FR",
+    "sun": "Sun_FR",
+    "sunday": "Sunday_FR",
+    "sundays": "Sundays_FR",
+    "thu": "Thu_FR",
+    "thursday": "Thursday_FR",
+    "thursdays": "Thursdays_FR",
+    "tue": "Tue_FR",
+    "tuesday": "Tuesday_FR",
+    "tuesdays": "Tuesdays_FR",
+    "wed": "Wed_FR",
+    "wednesday": "Wednesday_FR",
+    "wednesdays": "Wednesdays_FR"
+  }
+}
